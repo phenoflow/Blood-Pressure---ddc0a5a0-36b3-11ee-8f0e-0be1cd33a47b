@@ -1,0 +1,75 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/blood-pressure-reading---primary.py
+inputModule3:
+  class: File
+  path: python/blood---primary.py
+inputModule4:
+  class: File
+  path: python/unrecordable-blood-pressure---primary.py
+inputModule5:
+  class: File
+  path: python/blood-pressure-borderline---primary.py
+inputModule6:
+  class: File
+  path: python/abnormal-blood-pressure---primary.py
+inputModule7:
+  class: File
+  path: python/blood-pressure-raised---primary.py
+inputModule8:
+  class: File
+  path: python/systolic-blood-pressure---primary.py
+inputModule9:
+  class: File
+  path: python/diastolic-blood-pressure---primary.py
+inputModule10:
+  class: File
+  path: python/stable-blood-pressure---primary.py
+inputModule11:
+  class: File
+  path: python/blood-pressure-lying---primary.py
+inputModule12:
+  class: File
+  path: python/blood-pressure-standing---primary.py
+inputModule13:
+  class: File
+  path: python/blood-pressure-sitting---primary.py
+inputModule14:
+  class: File
+  path: python/blood-pressure---primary.py
+inputModule15:
+  class: File
+  path: python/blood-pressure-labile---primary.py
+inputModule16:
+  class: File
+  path: python/blood-pressure-target---primary.py
+inputModule17:
+  class: File
+  path: python/average-blood-pressure---primary.py
+inputModule18:
+  class: File
+  path: python/blood-pressure-interval---primary.py
+inputModule19:
+  class: File
+  path: python/blood-pressure-night---primary.py
+inputModule20:
+  class: File
+  path: python/blood-pressure-ambulatory---primary.py
+inputModule21:
+  class: File
+  path: python/blood-pressure-monitoring---primary.py
+inputModule22:
+  class: File
+  path: python/blood-pressure-screen---primary.py
+inputModule23:
+  class: File
+  path: python/blood-pressure-recall---primary.py
+inputModule24:
+  class: File
+  path: python/hypertensive-blood-pressure---primary.py
+inputModule25:
+  class: File
+  path: python/output-cases.py
